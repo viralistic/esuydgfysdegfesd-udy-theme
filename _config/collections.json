@@ -1,0 +1,68 @@
+{
+  "-581c1c56": {
+    "collection": "product",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "idin",
+          "value": "category/burgers.md"
+        }
+      ]
+    }
+  },
+  "-5d4d3bf4": {
+    "collection": "product",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "idin",
+          "value": "category/sides.md"
+        }
+      ]
+    }
+  },
+  "-4d1ba003": {
+    "collection": "product",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "idin",
+          "value": "category/drinks.md"
+        }
+      ]
+    }
+  },
+  "219e2efb": {
+    "collection": "product",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "idin",
+          "value": "DYN_CONTEXT"
+        }
+      ]
+    }
+  },
+  "42310b6d": {
+    "collection": "product",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "category",
+          "operatorName": "idin",
+          "value": "DYN_CONTEXT.category"
+        }
+      ],
+      "offset": 0,
+      "limit": 4
+    }
+  },
+  "-17dccf5e": {
+    "collection": "product",
+    "paginationLimit": 10
+  }
+}
